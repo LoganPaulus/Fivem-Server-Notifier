@@ -1,7 +1,7 @@
 # Fivem-Server-Notifier
  Simple script that sends a message to discord whenever your fivem server goes online.
  Here is what it look likes:
-https://cdn.discordapp.com/attachments/857706515402326057/957719812304424970/unknown.png
+![serveroneline](https://user-images.githubusercontent.com/82315449/160415295-6316faad-70b6-4747-94e7-873f1b54f782.png)
 # How to set it up
 Simply download it, fill out the config.lua and start/ensure it in your server.cfg.
 # Support
