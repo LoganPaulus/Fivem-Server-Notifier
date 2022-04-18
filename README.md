@@ -5,4 +5,4 @@ Simple script that sends a message to the server's discord server whenever your 
 The script functions with a Webhook so no need for a bot.
 Simply download it, fill out the config.lua and start/ensure it in your server.cfg.
 # Support
-If you need any help with it, you can contact me via Discord: Swaglord69420#6969
+If you need any help with it, you can contact me via Discord: Swaglord69420#8478
